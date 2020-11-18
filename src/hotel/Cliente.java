@@ -1,4 +1,4 @@
-package ConnectorBD;
+package hotel;
 
 public class Cliente {
 	
